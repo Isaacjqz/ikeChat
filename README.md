@@ -27,9 +27,3 @@ Usage
 When you first open the app, you will be taken to the login screen. Here, you can log in to the app using your Google account. Once you are logged in, you will be taken to the chat screen, where you can start chatting with other users who are also logged into the app.
 
 To log out of the app, simply click the "Logout" button in the top-right corner of the app.
-
-Credits
-The ikeChat app was built by Isaac Jaquez as part of a coding challenge. The app is open-source and free to use under the MIT license.
-
-License
-The ikeChat app is licensed under the MIT License. See LICENSE for more information.
