@@ -1,5 +1,5 @@
 import React from "react";
-import { GoogleOutlined } from "@ant-design/icons"; // FacebookOutlined
+import { GoogleOutlined } from "@ant-design/icons";
 import "firebase/app";
 
 import { auth } from "../firebase";
@@ -18,10 +18,6 @@ const Login = () => {
         >
           <GoogleOutlined /> Sign In with Google
         </div>
-        {/* <br /> <br />
-        <div className="login-button facebook">
-          <FacebookOutlined /> Sign In with Facebook
-        </div> */}
       </div>
     </div>
   );
