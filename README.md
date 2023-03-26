@@ -1,7 +1,5 @@
 ikeChat App
 
-link: https://ikechat-afd09.web.app/
-
 Description
 
 The ikeChat app is a real-time chat application that allows users to chat with other users in real-time. The app is built using React, React-Router, and Firebase. The chat functionality is provided by the Chat Engine API, which enables real-time chat communication between users.
@@ -13,6 +11,12 @@ The app consists of three main components:
 - Chats.js: The component that displays the chat functionality of the app.
 
 - Login.js: The component that handles user authentication.
+
+Deployment
+
+- The application is deployed on Firebase hosting and can be accessed using the following URL:
+
+- link: https://ikechat-afd09.web.app/
 
 Installation
 
